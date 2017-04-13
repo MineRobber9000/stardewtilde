@@ -1,4 +1,4 @@
-# stardewtilde #
+# stardewtilde [![Gitter](https://badges.gitter.im/MineRobber9000/stardewtilde.svg)](https://gitter.im/MineRobber9000/stardewtilde?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) #
 
 A farm game. Will be able to be played with multiple users on the same computer.
 
