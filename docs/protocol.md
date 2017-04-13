@@ -1,0 +1,3 @@
+# StardewTilde server protocol #
+
+WIP
